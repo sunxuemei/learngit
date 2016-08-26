@@ -3,4 +3,4 @@ chengjie
 git
 mysql
 git is a distributes version control system .
-git is free sofrware.
+git is free sofrware distributed umder the GPL.
